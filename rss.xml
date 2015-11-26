@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>chaicode.com</title>
+    <description>ajainvivek.com is the personal portfolio site of Ajain Vivek, a Front-end web developer based in Bangalore</description>
+    <link>http://ajainvivek.github.io/portfolio</link>
+    <copyright>Copyright Ajain Vivek 2015 - 2015</copyright>
+    
+	<item>
+        <title>Writing Your Own JavaScript Promise</title>
+        <description>Promise has been a buzz word for quite long time now among all JavaScript developers. Certainly it has been so handy for developers someone like me who loves using promise, which avoids dirty nested callbacks and cleans up my code in an organized fashion.</description>
+        <link>http://ajainvivek.github.io/portfolio/blog/2015/05/writing-your-own-javascript-promises/</link>
+        <pubDate>2015-05-06T15:57:14+05:30</pubDate>
+    </item>
+    
+</channel>
+</rss>
