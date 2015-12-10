@@ -7,6 +7,13 @@
     <copyright>Copyright Ajain Vivek 2015 - 2015</copyright>
     
 	<item>
+        <title>Ember Addons To Consider For Your Project</title>
+        <description>Essential and handy ember addons for your next project.</description>
+        <link>http://ajainvivek.github.io/portfolio/blog/2015/12/ember-addons-to-consider-for-your-next-project/</link>
+        <pubDate>2015-12-09T15:57:14+05:30</pubDate>
+    </item>
+    
+	<item>
         <title>Writing Your Own JavaScript Promise</title>
         <description>Promise has been a buzz word for quite long time now among all JavaScript developers. Certainly it has been so handy for developers someone like me who loves using promise, which avoids dirty nested callbacks and cleans up my code in an organized fashion.</description>
         <link>http://ajainvivek.github.io/portfolio/blog/2015/05/writing-your-own-javascript-promises/</link>
